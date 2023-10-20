@@ -18,7 +18,7 @@ Update repo with `git pull` and execute `./setup.sh` again.
 ## Tools
 
 - `bat` - better cat (aliased to `cat`)
-- `exa` - better ls (aliased to `ll` and `lst` for tree view which is missing for OSX)
+- `eza` - better ls (aliased to `ll` and `lst` for tree view which is missing for OSX)
 - `hwatch` - missing `watch` for OSX and better watch overall 
 - `git-delta` - better `git diff` (configured via `.gitconfig`)
 
